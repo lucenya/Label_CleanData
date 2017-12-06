@@ -1,0 +1,6 @@
+c:\users\luxhe\documents\visual studio 2015\Projects\readDBPediaFile\readDBPediaFile\bin\Debug\readDBPediaFile.exe.config
+c:\users\luxhe\documents\visual studio 2015\Projects\readDBPediaFile\readDBPediaFile\bin\Debug\readDBPediaFile.exe
+c:\users\luxhe\documents\visual studio 2015\Projects\readDBPediaFile\readDBPediaFile\bin\Debug\readDBPediaFile.pdb
+c:\users\luxhe\documents\visual studio 2015\Projects\readDBPediaFile\readDBPediaFile\obj\Debug\readDBPediaFile.csprojResolveAssemblyReference.cache
+c:\users\luxhe\documents\visual studio 2015\Projects\readDBPediaFile\readDBPediaFile\obj\Debug\readDBPediaFile.exe
+c:\users\luxhe\documents\visual studio 2015\Projects\readDBPediaFile\readDBPediaFile\obj\Debug\readDBPediaFile.pdb
